@@ -111,3 +111,26 @@ h3{
     height: auto;
     margin: auto;
 }
+
+ form{
+    display: flex;
+    flex-direction: column;
+    position: relative; top: 150px;
+ }
+
+ input, button{
+    width: 25%;
+    height: 30px;
+    font-size: 15px;
+    margin: 10px;
+ }
+
+ button{
+    width: 25.2%;
+ }
+
+ label{
+    margin: 15px;
+    text-decoration: underline;
+ }
+ 
